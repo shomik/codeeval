@@ -13,3 +13,8 @@ hs_err_pid*
 
 #maven folders
 target/
+
+#Eclipse files
+.classpath
+.project
+.settings/
